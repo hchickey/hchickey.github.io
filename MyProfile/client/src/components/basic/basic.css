@@ -1,0 +1,16 @@
+
+
+p {
+    font-family: 'Jost', serif;
+    font-size: 1.5em;
+    
+}
+
+.basic {
+    position: relative;
+    top: 20px;
+}
+
+.card{
+    background-color: gray;
+}
